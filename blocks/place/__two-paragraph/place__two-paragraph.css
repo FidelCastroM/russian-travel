@@ -1,0 +1,21 @@
+.place__two-paragraph {
+    max-width: 484px;
+}
+
+@media screen and (max-width: 1124px) {
+    .places__two-paragraph {
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 984px) {
+    .places__two-paragraph {
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 741px) {
+    .places__two-paragraph {
+        max-width: 320px;
+    }
+}
